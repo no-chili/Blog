@@ -21,6 +21,9 @@ export default defineConfig({
       { text: '开发经验', link: '/development/' },
       { text: '生活', link: '/life/' },
     ],
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/no-chili' },
+    ],
     sidebar: {
       '/interview/': [
         {
@@ -41,9 +44,6 @@ export default defineConfig({
         }
       ]
     },
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/no-chili' },
-    ],
     footer: {
       message: 'Released under the MIT License.',
       copyright: 'Copyright © 2019-present Evan You'
