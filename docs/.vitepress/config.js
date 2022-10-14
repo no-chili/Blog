@@ -39,7 +39,7 @@ export default defineConfig({
           text: '表单验证',
           collapsable: false,
           items:[
-            { text: '验证', link: '/development/center' },
+            { text: '验证', link: '/development/verify' },
           ]
         }
       ]
