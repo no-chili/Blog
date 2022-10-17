@@ -9,7 +9,7 @@ hero:
   text: 整理了一些前端的知识
   tagline: 没啥特点仅供学习
   image:
-    src: /logo.svg
+    src: /logo.png
     alt: Kitty
   actions:
     - theme: brand

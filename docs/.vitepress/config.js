@@ -14,8 +14,9 @@ export default defineConfig({
     theme:'github-dark',
     lineNumbers: true
   },
+  smoothScroll: true,
   themeConfig: {
-    logo: '/logo.svg',
+    logo: '/logo.png',
     nav: [
       { text: '面试', link: '/interview/' },
       { text: '开发经验', link: '/development/' },
@@ -28,18 +29,55 @@ export default defineConfig({
       '/interview/': [
         {
           text: 'CSS',
-          collapsable: false,
+          collapsible: true,
+          items:[
+            { text: '居中', link: '/interview/center' },
+            { text: '居中', link: '/interview/center' },
+          ]
+        },
+        {
+          text: 'JavaScript',
+          collapsible: true,
+          items:[
+            { text: '居中', link: '/interview/center' },
+          ]
+        },
+        {
+          text: 'Vue',
+          collapsible:true,
+          items:[
+            { text: '居中', link: '/interview/center' },
+          ]
+        },
+        {
+          text: 'React',
+          collapsible:true,
+          items:[
+            { text: '居中', link: '/interview/center' },
+          ]
+        },
+        {
+          text: '浏览器',
+          collapsible:true,
+          items:[
+            { text: '居中', link: '/interview/center' },
+          ]
+        },
+        {
+          text: 'TypeScript',
+          collapsible:true,
           items:[
             { text: '居中', link: '/interview/center' },
           ]
         }
       ],
-      '/development/': [
+      '/development/':[
         {
-          text: '表单验证',
-          collapsable: false,
+          text:'开发',
           items:[
             { text: '验证', link: '/development/verify' },
+            { text: '原子化CSS', link: '/development/unocss' },
+            { text: '封装vue组件', link: '/development/wrap' },
           ]
         }
       ]
