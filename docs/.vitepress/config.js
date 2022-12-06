@@ -39,7 +39,7 @@ export default defineConfig({
           text: 'JavaScript',
           collapsible: true,
           items:[
-            { text: '居中', link: '/interview/center' },
+            { text: '运算符', link: '/JavaScript/ES6中的运算符' },
           ]
         },
         {
