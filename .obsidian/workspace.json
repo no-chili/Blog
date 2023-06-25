@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "c59e5c5a7e2812a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fa67019b3f336dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d5a0a2adbfc9f34",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77411412c576ea22",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb8012a2a277f966",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "828e740d4664227b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1ec75774ef3222e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "17a7082c2ebd9c0e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "07ab1c9b4bbbf740",
+    "type": "split",
+    "children": [
+      {
+        "id": "91a8278aeadcc587",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56eabc48ff00217d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ed08b670fe18876",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31c85ace8e407d79",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fd920e38cd507d0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "0d5a0a2adbfc9f34",
+  "lastOpenFiles": [
+    "docs/JavaScript/ES6中的运算符.md",
+    "docs/knowledge/getComputedStyle.md",
+    "docs/knowledge/ES6中的运算符.md",
+    "docs/knowledge",
+    "docs/pit",
+    "docs/JavaScript/getComputedStyle.md",
+    "node_modules",
+    "_tmp_17288_25d601219db31bc1ceff6c1cff7f62bf",
+    "docs/life/index.md",
+    "docs/index.md",
+    "docs/public/logo.png",
+    "docs/public/logo.svg",
+    "docs/JavaScript/DOM/getComputedStyle.md",
+    "docs/JavaScript/BOM/Audio.md",
+    "docs/interview/index.md",
+    "docs/interview/center.md",
+    "docs/development/wrap.md",
+    "docs/development/verify.md",
+    "docs/development/index.md",
+    "docs/development/unocss.md"
+  ]
+}
